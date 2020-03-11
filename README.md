@@ -22,7 +22,7 @@ Include getter and setter method for all the attributes Include constructor with
 
 Create PlayerDAO.java with below methods to handle all database related operations public List<Player> listAllPlayer() - Method used to fetch all the Player from players table belong to England team and returns the list of players. Display the Players in ascending order based on name. 
 
-_DAO Layer - Data access layer provides the gateway to create, reterive, update or delete any data in the database. All database related operations will be performed in this layer. _
+_DAO Layer - Data access layer provides the gateway to create, reterive, update or delete any data in the database. All database related operations will be performed in this layer._
 
 
 
