@@ -5,7 +5,8 @@
 
 ## Progression 1:
 
-Create Main.java with main method Create Player.java domain class with below attributes, 
+Create a class called as `Main` with main method 
+Create a class called as `Player` with below attributes, 
 ```
 playerld- Long 
 playerName- String 
@@ -20,7 +21,8 @@ Include getter and setter method for all the attributes Include constructor with
 
 ## Progression 3:
 
-Create PlayerDAO.java with below methods to handle all database related operations public List<Player> listAllPlayer() - Method used to fetch all the Player from players table belong to England team and returns the list of players. Display the Players in ascending order based on name. 
+Create a dao-class called as `PlayerDAO` with below methods to handle all database related operations 
+`public List<Player> listAllPlayer()` - Method used to fetch all the Player from players table belong to England team and returns the list of players. Display the Players in ascending order based on name. 
 
 _DAO Layer - Data access layer provides the gateway to create, reterive, update or delete any data in the database. All database related operations will be performed in this layer._
 
