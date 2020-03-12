@@ -42,3 +42,14 @@ public static Properties loadPropertiesFile() throws Exception {
 	return prop;
 }
 ```    
+**Sample Output**
+``` 
+List of all Player from Kolkata city 
+1) Ankit Rajpoot 
+2) Brad Hogg 
+3) Chris Lynn 
+4) Colin Munro 
+5) Gautam Gambhir 
+6) Jason Holder 
+7) John Hastings 
+```
