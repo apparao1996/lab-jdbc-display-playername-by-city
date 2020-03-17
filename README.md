@@ -53,7 +53,7 @@ If you haven't downloaded OJDBC driver (ojdbc6.jar), then download using this li
 2. Create a method public static Connection getConnection() which returns a connection object.
 3. Use the method public static Properties loadPropertiesFile() to load the jdbc properties from the jdbc.properties file.
 
-## Progression 1:
+## Progression 2:
 
 1. Create a class called as `Player` with below attributes,
 	- playerld- Long 
